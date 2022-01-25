@@ -125,3 +125,5 @@ dmypy.json
 
 # weights and biases
 wandb/
+# don't track stuff inside data/
+data/
